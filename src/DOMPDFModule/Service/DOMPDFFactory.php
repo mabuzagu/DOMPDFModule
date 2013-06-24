@@ -57,7 +57,9 @@ class DOMPDFFactory implements FactoryInterface
         'debug_layout_links'        => 'DEBUG_LAYOUT_LINES',
         'debug_layout_blocks'       => 'DEBUG_LAYOUT_BLOCKS',
         'debug_layout_inline'       => 'DEBUG_LAYOUT_INLINE',
-        'debug_layout_padding_box'  => 'DEBUG_LAYOUT_PADDINGBOX'
+        'debug_layout_padding_box'  => 'DEBUG_LAYOUT_PADDINGBOX',
+        'admin_username'            => 'DOMPDF_ADMIN_USERNAME',
+        'admin_password'            => 'DOMPDF_ADMIN_PASSWORD'
     );
     
     /**
